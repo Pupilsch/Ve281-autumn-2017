@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator.DESKTOP-4101650/Desktop/Ve281/2017 Project/p4/281_p4/main.cpp
+iostream
+-
+getopt.h
+-
+string
+-
+queue
+-
+map
+-
+limits.h
+-
+algorithm
+-
+
